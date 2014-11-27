@@ -15,7 +15,7 @@ class CRM_Searchcountries_Form_Search_CountriesSearch extends CRM_Contact_Form_S
    * @return void
    */
   function buildForm(&$form) {
-    CRM_Utils_System::setTitle(ts('My Search Title'));
+    CRM_Utils_System::setTitle(ts('Search Multiple Countries'));
 
     //@todo FIXME - using the CRM_Core_DAO::VALUE_SEPARATOR creates invalid html - if you can find the form
     // this is loaded onto then replace with something like '__' & test
