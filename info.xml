@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="net.trinfinity.orgis.searchcountries" type="module">
+  <file>searchcountries</file>
+  <name>Search Contacts on more Countries</name>
+  <description>Search Contacts on more Countries</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>catorghans</author>
+    <email>hidink@orgis.nl</email>
+  </maintainer>
+  <releaseDate>2014-11-27</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>Search countries</comments>
+  <civix>
+    <namespace>CRM/Searchcountries</namespace>
+  </civix>
+</extension>
