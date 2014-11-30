@@ -9,8 +9,7 @@
     <email>hidink@orgis.nl</email>
   </maintainer>
   <releaseDate>2014-11-27</releaseDate>
-  <version>1.02</version>
-  <develStage>beta</develStage>
+  <version>1.03</version>
   <compatibility>
     <ver>4.5</ver>
   </compatibility>
